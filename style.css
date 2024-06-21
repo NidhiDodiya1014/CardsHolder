@@ -127,6 +127,7 @@
 }
 body{
     position: absolute;
+    height: 100vh;
 }
 .clear_container {
     position: relative;
